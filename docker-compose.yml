@@ -1,0 +1,9 @@
+version: '3.8'
+
+services:
+  sd-intuition:
+    build: .
+    ports:
+      - "8080:80"
+    container_name: sd-intuition-app
+    restart: unless-stopped
