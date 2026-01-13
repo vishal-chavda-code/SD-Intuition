@@ -1,0 +1,5 @@
+{
+  "name": "Standard Deviation Intuition Builder",
+  "description": "An interactive educational tool demonstrating why standard deviation is not additive and why variance is the correct space for risk aggregation.",
+  "requestFramePermissions": []
+}
